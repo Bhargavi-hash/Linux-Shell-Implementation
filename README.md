@@ -32,6 +32,7 @@ The commands that are supported are as follows :
     ls -l
     ls -al
     ls -la
+    ls -a -l
     ls <directory>
     ls <flags> <directories>
     ```
