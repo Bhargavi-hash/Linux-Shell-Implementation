@@ -1,4 +1,4 @@
-# OSN Assignment: LINUX shell implementation in C
+# OSN: LINUX shell implementation in C
 
 ## Running the Shell
 
