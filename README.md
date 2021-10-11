@@ -153,7 +153,7 @@ quit
 
 The directory in which our `./shell` is present
 
-## Code Files and Files
+## Code Files and Functions
 
 * myshell.c:
 
